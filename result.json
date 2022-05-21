@@ -1,0 +1,78 @@
+[
+    {
+        "id": "f7e714f7-f2ea-406c-8f66-6eb980ab58f2",
+        "name": "Why drinking water is important?",
+        "description": "It is important because...",
+        "creationDate": "2022-05-21T10:10:34.348915900Z",
+        "authorName": "Andrew",
+        "tags": [
+            "Water",
+            "Health",
+            "Drinking"
+        ],
+        "sectionName": "Health",
+        "rating": 0.7
+    },
+    {
+        "id": "9276c780-43f6-4618-866f-374bfbe4e4c4",
+        "name": "What is the best way to find butter?",
+        "description": "Its easy, just...",
+        "creationDate": "2022-05-21T10:10:34.349913400Z",
+        "authorName": "Micheal",
+        "tags": [
+            "Butter",
+            "BestWay"
+        ],
+        "sectionName": "Butter",
+        "rating": 0.7
+    },
+    {
+        "creationDate": "2022-04-27T15:39:15.023Z",
+        "authorName": "Josh",
+        "tags": [
+            "Meters",
+            "Foot",
+            "Other"
+        ],
+        "id": "TST11",
+        "description": "Its easier to measure...",
+        "sectionName": "Measurements",
+        "name": "Why foot and not meters?",
+        "rating": 0.09090909090909091
+    },
+    {
+        "creationDate": "2022-04-27T15:39:25.023Z",
+        "authorName": null,
+        "tags": [
+            "King",
+            "Tusk"
+        ],
+        "id": "TST12",
+        "description": "It is pretty simple, because...",
+        "sectionName": "Politics",
+        "name": "Why Tusk should be king?",
+        "rating": 0.99
+    },
+    {
+        "description": "It is because of the fact...",
+        "rating": 0.9,
+        "id": "c26b81aa-777e-43ef-8a44-3b37d39e679a",
+        "authorName": "Josh",
+        "name": "I am free",
+        "tags": [
+        ],
+        "sectionName": "Freedom",
+        "creationDate": "2021-04-22T15:32:28Z"
+    },
+    {
+        "description": "It is because...",
+        "rating": 0.1,
+        "id": "ff2b18c8-43a4-4de2-a5dd-b829808ae0f5",
+        "authorName": "Tom",
+        "name": "I am Tom",
+        "tags": [
+        ],
+        "sectionName": "Life",
+        "creationDate": "2020-08-12T10:34:23Z"
+    }
+]
